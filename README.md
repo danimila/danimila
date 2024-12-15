@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Daniel+Lopes.;Sou+Brasileiro+de+Ribeirão+Preto/SP.;Sou+Cientista+de+Dados;Seja+Bem+Vindo+ao+meu+perfil+😁👍;Clique+no+ícone+Power+BI;Para+visualizar+um+de+meus+projetos;gerencial+na+área+financeira+contábil!😁👍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Daniel+Lopes.;Sou+Brasileiro+de+Ribeirão+Preto/SP.;Sou+Cientista+de+Dados;Seja+Bem+Vindo+ao+meu+perfil!😁👍;Clique+no+ícone+Power+BI;Para+visualizar+um+de+meus+projetos+gerenciais;na+área+Contábil+Financeira!😁👍)](https://git.io/typing-svg)
 
 ## <h4>Estas são as ferramentas que possuo um conhecimento Avançado:</h4>
   <p> 
@@ -8,7 +8,7 @@
     <img align="center" alt="SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png" title = "SQL">
     <img align="center" alt="POWERAUTOMATE" height="30" width="40" src="https://img.icons8.com/?size=512&id=kTTt25v6Drpd&format=png" title = "POWER_AUTOMATE">
     <img align="center" alt="EXCEL" height="30" width="40" src="https://img.icons8.com/?size=256&id=117561&format=png" title = "EXCEL">
-    <a href="https://app.powerbi.com/view?r=eyJrIjoiMmQ5NjAwZDItYzVkMi00Y2U2LWI5ZDYtYTE1NDQ0MDM5YjI2IiwidCI6IjczZTc1OTliLWFjMGUtNGMxZi1iMmNmLWMxMjgzNWYxNjBkMyJ9" target="_blank"><img align="center" alt="POWERBI" height="30" width="40" src="https://img.icons8.com/?size=256&id=3sGOUDo9nJ4k&format=png" title = "POWER_BI"><p style = "color=Blue"></a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiMmQ5NjAwZDItYzVkMi00Y2U2LWI5ZDYtYTE1NDQ0MDM5YjI2IiwidCI6IjczZTc1OTliLWFjMGUtNGMxZi1iMmNmLWMxMjgzNWYxNjBkMyJ9" target="_blank"><img align="center" alt="POWERBI" height="30" width="40" src="https://img.icons8.com/?size=256&id=3sGOUDo9nJ4k&format=png" title = "POWER_BI - Clique aqui!"><p style = "color=Blue"></a>
   </p> 
   
 ## <h4>Estas são as ferramentas que possuo um conhecimento Intermediário:</h4>
