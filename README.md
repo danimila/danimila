@@ -8,7 +8,7 @@
     <img align="center" alt="SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png" title = "SQL">
     <img align="center" alt="POWERAUTOMATE" height="30" width="40" src="https://img.icons8.com/?size=512&id=kTTt25v6Drpd&format=png" title = "POWER_AUTOMATE">
     <img align="center" alt="EXCEL" height="30" width="40" src="https://img.icons8.com/?size=256&id=117561&format=png" title = "EXCEL">
-    <a href="https://app.powerbi.com/view?r=eyJrIjoiMzEwZjdjODktYzE0ZS00NmVkLWIyOWQtMmM1ZjFkOTEwMDViIiwidCI6ImJmNDQ1ODhhLTk2NDQtNGZmMC05ZjRiLTU4ZGMwMzdjZDJmNiJ9" target="_blank"><img align="center" alt="POWERBI" height="30" width="40" src="https://img.icons8.com/?size=256&id=3sGOUDo9nJ4k&format=png" title = "POWER_BI - Clique aqui!"><p style = "color=Blue"></a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiMzBhNzQ4ODItYzM2MC00MmQ5LWFkNjEtNzY5Y2FkYTI5MTNkIiwidCI6ImJmNDQ1ODhhLTk2NDQtNGZmMC05ZjRiLTU4ZGMwMzdjZDJmNiJ9" target="_blank"><img align="center" alt="POWERBI" height="30" width="40" src="https://img.icons8.com/?size=256&id=3sGOUDo9nJ4k&format=png" title = "POWER_BI - Clique aqui!"><p style = "color=Blue"></a>
   </p> 
   
 ## <h4>Estas são as ferramentas que possuo um conhecimento Intermediário:</h4>
