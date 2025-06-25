@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Daniel+Lopes.;Sou+Brasileiro+de+Ribeirão+Preto/SP.;Sou+Analsita de Dados/Power BI;Sou Graduado em Engenharia Civil; Possou Cursos na Área de Dados como:;Cientista de Dados e Afins;Sou especialista na Criação de Automação para ETL e Power BI;Seja+Bem+Vindo+ao+meu+perfil!😁👍;Clique+no+ícone+Power+BI;Para+visualizar+um+de+meus+projetos+gerenciais;na+área+Contábil+Financeira!😁👍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Daniel+Lopes.;Sou+Brasileiro+de+Ribeirão+Preto/SP.;Sou+Analista de Dados/Power BI;Sou Graduado em Engenharia Civil;Possuo+Cursos+na+Área+de+dados+como:;Cientista+de+Dados+e+Afins;Sou+especialista+na+Criação+de+Automação+para+ETL+e+Power+BI;Seja+Bem+Vindo+ao+meu+perfil!😁👍;Clique+no+ícone+Power+BI;Para+visualizar+um+de+meus+projetos+gerenciais;na+área+Contábil+Financeira!😁👍)](https://git.io/typing-svg)
 
 ## <h4>Estas são as ferramentas que possuo um conhecimento Avançado:</h4>
   <p> 
